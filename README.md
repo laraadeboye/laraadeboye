@@ -56,4 +56,5 @@
 ##### ✨ My blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Placement Groups: Optimize Your EC2 Instance Deployment](https://dev.to/laraadeboye/understanding-placement-groups-optimize-your-ec2-instance-deployment-5961)
+- [How To Configure and Deploy Amazon VPC For a 3-TIER Web App](https://laraadeboye.hashnode.dev/how-to-configure-and-deploy-amazon-vpc-for-a-3-tier-web-app)
 <!-- BLOG-POST-LIST:END -->
