@@ -1,12 +1,14 @@
-### Hi there 👋
+# Hi there 👋
   I am [Lara Adeboye](https://www.linkedin.com/in/laraadeboye) 
+
  
-##### About me
+### About me
 * I am a Cloud/Devops Engineer.
 * I thrive on leveraging Devops tools and technologies to achieve faster deployments.
 * I am continuously learning and implementing new skills to create impactful solutions to problems.
   
-##### I have built and deployed software solutions using the following technologies:
+  
+#### I have built and deployed software solutions using the following technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,7 +39,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 -->
 
-##### Find below the repositories I use to learn different technologies:
+
+#### Find below the repositories I use to learn different technologies:
 
 | Repositories        | Description                                                                                    |
 | ------------------- | ---------------------------------------------------------------------------------------------- |
@@ -48,19 +51,21 @@
 | DEVOPS_projects     | Terraform, Ansible, Docker, Kubernetes, Nexus, Jfrog, Grafana, Prometheus                      |
 | BASIC_TECH          | Linux, shell scripts, Web servers, Build tools, languages                                      |
 
-##### My stats:
+
+#### My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laraadeboye&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraadeboye&layout=compact)
 
 
-##### ✨ My blog posts
+
+#### ✨ My blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Placement Groups: Optimize Your EC2 Instance Deployment](https://dev.to/laraadeboye/understanding-placement-groups-optimize-your-ec2-instance-deployment-5961)
 - [How To Configure and Deploy Amazon VPC For a 3-TIER Web App](https://laraadeboye.hashnode.dev/how-to-configure-and-deploy-amazon-vpc-for-a-3-tier-web-app)
 <!-- BLOG-POST-LIST:END -->
 
 
-##### ✨ My Videos
+#### ✨ My Videos
 <!-- YT_VIDEO_LIST:START -->
 - [Configuring an Amazon VPC for a 3 tier web app](https://www.youtube.com/watch?v=W2Qn0fUSm6k)
 <!-- YT_VIDEO_LIST:END -->
