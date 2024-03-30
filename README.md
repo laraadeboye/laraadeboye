@@ -62,4 +62,5 @@
 
 ##### ✨ My Videos
 <!-- YT_VIDEO_LIST:START -->
+- [Configuring an Amazon VPC for a 3 tier web app](https://www.youtube.com/watch?v=W2Qn0fUSm6k)
 <!-- YT_VIDEO_LIST:END -->
