@@ -1,6 +1,6 @@
 ### Hi there 👋
   I am [Lara Adeboye](https://www.linkedin.com/in/laraadeboye) 
-
+ 
 ##### About me
 * I am a Cloud/Devops Engineer.
 * I love using Devops tools and technologies to solve challenges.
@@ -14,10 +14,10 @@
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -36,15 +36,21 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 -->
-
 <!--
+##### Find below the repositories I use to learn different technologies:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Repositories        | Description                                                                                    |
+| ------------------- | ---------------------------------------------------------------------------------------------- |
+| AWS_projects        | Different AWS services and in combination with other technologies                              |
+| AZURE_projects      | Different AZURE services and in combination with other technologies                            |
+| GCP_projects        | Different GCP services and in combination with other technologies                              |
+| CI-CD_pipelines     | CI-CD pipelines combinining different devops tools and cloud                                   |
+| DEVOPS_projects     | Terraform, Ansible, Docker, Kubernetes, Nexus, Jfrog, Grafana, Prometheus                      |
+| BASIC_TECH          | Linux, shell scripts, Web servers, Build tools, languages                                      |
+
+##### My stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laraadeboye&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraadeboye&layout=compact)
 -->
-
-  
 
 
