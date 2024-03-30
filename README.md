@@ -53,7 +53,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraadeboye&layout=compact)
 -->
 
-# My blog posts
+##### ✨ My blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Placement Groups: Optimize Your EC2 Instance Deployment](https://dev.to/laraadeboye/understanding-placement-groups-optimize-your-ec2-instance-deployment-5961)
 <!-- BLOG-POST-LIST:END -->
