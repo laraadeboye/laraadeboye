@@ -3,10 +3,10 @@
  
 ##### About me
 * I am a Cloud/Devops Engineer.
-* I love using Devops tools and technologies to solve challenges.
-* I am an avid learner passionate about implementing new skills to proffer solutions to problems.
+* I thrive on leveraging Devops tools and technologies to achieve faster deployments.
+* I am continuously learning and implementing new skills to create impactful solutions to problems.
   
-##### I am conversant with the following technologies:
+##### I have built and deployed software solutions using the following technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -58,3 +58,8 @@
 - [Understanding Placement Groups: Optimize Your EC2 Instance Deployment](https://dev.to/laraadeboye/understanding-placement-groups-optimize-your-ec2-instance-deployment-5961)
 - [How To Configure and Deploy Amazon VPC For a 3-TIER Web App](https://laraadeboye.hashnode.dev/how-to-configure-and-deploy-amazon-vpc-for-a-3-tier-web-app)
 <!-- BLOG-POST-LIST:END -->
+
+
+##### ✨ My Videos
+<!-- YT-VIDEO-LIST:START -->
+<!-- YT-VIDEO-LIST:END -->
