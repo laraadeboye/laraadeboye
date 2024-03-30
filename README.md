@@ -36,7 +36,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 -->
-<!--
+
 ##### Find below the repositories I use to learn different technologies:
 
 | Repositories        | Description                                                                                    |
@@ -51,7 +51,7 @@
 ##### My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laraadeboye&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraadeboye&layout=compact)
--->
+
 
 ##### ✨ My blog posts
 <!-- BLOG-POST-LIST:START -->
