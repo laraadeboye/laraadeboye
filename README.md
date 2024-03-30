@@ -39,7 +39,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 -->
 
-
+<!-- Working on adding flesh within the next 3 months
 #### Find below the repositories I use to learn different technologies:
 
 | Repositories        | Description                                                                                    |
@@ -55,8 +55,7 @@
 #### My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laraadeboye&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraadeboye&layout=compact)
-
-
+-->
 
 #### ✨ My blog posts
 <!-- BLOG-POST-LIST:START -->
