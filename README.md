@@ -42,14 +42,14 @@
 
 #### Find below the repositories I use to learn different technologies:
 
-| Repositories        | Description                                                                                    |
-| ------------------- | ---------------------------------------------------------------------------------------------- |
-| AWS_projects        | Different AWS services and in combination with other technologies                              |
-| AZURE_projects      | Different AZURE services and in combination with other technologies                            |
-| GCP_projects        | Different GCP services and in combination with other technologies                              |
-| CI-CD_pipelines     | CI-CD pipelines combinining different devops tools and cloud                                   |
-| DEVOPS_projects     | Terraform, Ansible, Docker, Kubernetes, Nexus, Jfrog, Grafana, Prometheus                      |
-| BASIC_TECH          | Linux, shell scripts, Web servers, Build tools, languages                                      |
+| Repositories                                                      | Description                                                                                    |
+| ------------------------------------------------------------------| ---------------------------------------------------------------------------------------------- |
+| AWS_projects                                                      | Different AWS services and in combination with other technologies                              |
+| AZURE_projects                                                    | Different AZURE services and in combination with other technologies                            |
+| [https://github.com/laraadeboye/GCP_projects] GCP_projects        | Different GCP services and in combination with other technologies                              |
+| CI-CD_pipelines                                                   | CI-CD pipelines combinining different devops tools and cloud                                   |
+| DEVOPS_projects                                                   | Terraform, Ansible, Docker, Kubernetes, Nexus, Jfrog, Grafana, Prometheus                      |
+| BASIC_TECH                                                        | Linux, shell scripts, Web servers, Build tools, languages                                      |
 
 <!--
 #### My stats:
