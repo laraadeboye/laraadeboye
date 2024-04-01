@@ -49,7 +49,7 @@
 | [GCP_projects](https://github.com/laraadeboye/GCP_projects)       | Different GCP services and in combination with other technologies                              |
 | CI-CD_pipelines                                                   | CI-CD pipelines combinining different devops tools and cloud                                   |
 | DEVOPS_projects                                                   | Terraform, Ansible, Docker, Kubernetes, Nexus, Jfrog, Grafana, Prometheus                      |
-| BASIC_TECH                                                        | Linux, shell scripts, Web servers, Build tools, languages                                      |
+| [BASIC_TECH](git@github.com:laraadeboye/BASIC_TECH.git)           | Linux, shell scripts, Web servers, Build tools, languages                                      |
 -->
 <!--
 #### My stats:
