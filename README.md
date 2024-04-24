@@ -44,7 +44,7 @@
 
 | Repositories                                                      | Description                                                                                    |
 | ------------------------------------------------------------------| ---------------------------------------------------------------------------------------------- |
-| AWS_projects                                                      | Different AWS services and in combination with other technologies                              |
+| [AWS_projects](https://github.com/laraadeboye/AWS_projects)       | Different AWS services and in combination with other technologies                              |
 | AZURE_projects                                                    | Different AZURE services and in combination with other technologies                            |
 | [GCP_projects](https://github.com/laraadeboye/GCP_projects)       | Different GOOGLE CLOUD services and in combination with other technologies                     |
 | [CI-CD_pipelines](https://github.com/laraadeboye/CI-CD_pipelines) | CI-CD pipelines combinining different devops tools and cloud                                   |
