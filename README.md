@@ -48,7 +48,7 @@
 | AZURE_projects                                                    | Different AZURE services and in combination with other technologies                            |
 | [GCP_projects](https://github.com/laraadeboye/GCP_projects)       | Different GOOGLE CLOUD services and in combination with other technologies                     |
 | [CI-CD_pipelines](https://github.com/laraadeboye/CI-CD_pipelines) | CI-CD pipelines combinining different devops tools and cloud                                   |
-| DEVOPS_projects                                                   | Terraform, Ansible, Docker, Kubernetes, Nexus, Jfrog, Grafana, Prometheus                      |
+| [DEVOPS_projects](https://github.com/laraadeboye/DEVOPS_projects) | Terraform, Ansible, Docker, Kubernetes, Nexus, Jfrog, Grafana, Prometheus                      |
 | [BASIC_TECH](https://github.com/laraadeboye/BASIC_TECH)           | Linux, shell scripts, python scripts, Web servers, Build tools, sql, languages                 |
 
 <!--
