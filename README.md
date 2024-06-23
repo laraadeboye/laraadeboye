@@ -48,7 +48,7 @@
 | -------------------------------------------------------------------------| ---------------------------------------------------------------------------------------------- |
 | [HNG-Internship](https://github.com/laraadeboye/HNG-devops-internship)   | Real-time projects and  collaboration on DevOps Projects in a fast-paced environment           | 
 | [AWS_projects](https://github.com/laraadeboye/AWS_projects)              | Different AWS services and in combination with other technologies                              |
-| [AWS_Examples](https://github.com/laraadeboye/AWS-Examples)                                                                                                               |
+| [AWS_Examples](https://github.com/laraadeboye/AWS-Examples)              | Hands-on covering numerous AWS services such as S3, Cloudformation, SDK, EKS etc.              |
 | AZURE_projects                                                           | Different AZURE services and in combination with other technologies                            |
 | [GCP_projects](https://github.com/laraadeboye/GCP_projects)              | Different GOOGLE CLOUD services and in combination with other technologies                     |
 | [CI-CD_pipelines](https://github.com/laraadeboye/CI-CD_pipelines)        | CI-CD pipelines combinining different devops tools and cloud                                   |
