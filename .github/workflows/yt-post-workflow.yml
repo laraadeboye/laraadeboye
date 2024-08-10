@@ -1,19 +1,29 @@
 name: Latest YT video workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # every hour
+    - cron: '0 1 28-31 * *' # Run at 1 AM UTC on the 28th-31st of every month
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme-with-blog:
+  update-readme-with-videos:
     name: Update this repo's README with latest videos
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+
+      - name: Check if last day of month
+        id: check-date
+        run: |
+          if [[ $(date -d "tomorrow" +%d) == "01" ]]; then
+            echo "is_last_day=true" >> $GITHUB_OUTPUT
+          else
+            echo "is_last_day=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Pull in youtube videos
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "YT_VIDEO_LIST"
