@@ -44,7 +44,7 @@
 
 #### Find below the repositories I use to learn different technologies:
 
-| Repositories                                                             | Description                                                                                    |
+| Repositories                                                             | Description                                                                                             |
 | -------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- |
 | [HNG-Internship](https://github.com/laraadeboye/HNG-devops-internship)   | Real-time projects and  collaboration on DevOps Projects in a fast-paced environment                    | 
 | [AWS_projects](https://github.com/laraadeboye/AWS_projects)              | Different AWS services and in combination with other technologies                                       |
