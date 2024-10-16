@@ -60,9 +60,9 @@
 <!--
 #### My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laraadeboye&show_icons=true&theme=radical)
-
--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraadeboye&layout=compact)
+-->
+
 
 #### ✨ My blog posts
 <!-- BLOG-POST-LIST:START -->
