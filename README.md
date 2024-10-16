@@ -32,13 +32,14 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 <!-- Currently learning these 
 
 ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 -->
 
 
@@ -59,8 +60,9 @@
 <!--
 #### My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laraadeboye&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraadeboye&layout=compact)
+
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraadeboye&layout=compact)
 
 #### ✨ My blog posts
 <!-- BLOG-POST-LIST:START -->
