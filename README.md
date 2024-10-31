@@ -66,6 +66,7 @@
 
 #### ✨ My blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying A MERN Stack To-Do App on AWS: A Step-by-Step Guide](https://dev.to/laraadeboye/deploying-a-mern-stack-to-do-app-on-aws-a-step-by-step-guide-1dk2)
 - [LEMP STACK ON AWS](https://dev.to/laraadeboye/lemp-stack-on-aws-5cod)
 - [Automating User Management with Advanced Bashscript](https://dev.to/laraadeboye/automating-user-management-with-advanced-bashscript-4m8p)
 - [Understanding Placement Groups: Optimize Your EC2 Instance Deployment](https://dev.to/laraadeboye/understanding-placement-groups-optimize-your-ec2-instance-deployment-5961)
