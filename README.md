@@ -66,11 +66,11 @@
 
 #### ✨ My blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a fast RAG chatbot using Gradio, LlamaIndex, HuggingFace, and Groq for intelligent…](https://medium.com/@laraadeboye/how-to-deploy-a-document-question-and-answer-rag-based-llm-app-with-docker-77bd82794929?source=rss-6322e024b851------2)
+- [HOW LLMS ACTUALLY WORK](https://medium.com/@laraadeboye/how-llms-actually-work-c2d9ab237b7e?source=rss-6322e024b851------2)
 - [Building a System Resource Monitoring Tool for an AWS EC2 instance](https://medium.com/@laraadeboye/building-a-system-resource-monitoring-tool-for-an-aws-ec2-instance-c685cbc3d9bd?source=rss-6322e024b851------2)
 - [Deploying A MERN Stack To-Do App on AWS: A Step-by-Step Guide](https://dev.to/laraadeboye/deploying-a-mern-stack-to-do-app-on-aws-a-step-by-step-guide-1dk2)
 - [LEMP STACK ON AWS](https://dev.to/laraadeboye/lemp-stack-on-aws-5cod)
-- [Automating User Management with Advanced Bashscript](https://dev.to/laraadeboye/automating-user-management-with-advanced-bashscript-4m8p)
-- [Understanding Placement Groups: Optimize Your EC2 Instance Deployment](https://dev.to/laraadeboye/understanding-placement-groups-optimize-your-ec2-instance-deployment-5961)
 <!-- BLOG-POST-LIST:END -->
 
 
